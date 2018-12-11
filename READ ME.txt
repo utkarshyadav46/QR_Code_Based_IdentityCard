@@ -1,0 +1,24 @@
+                                                   ID CARD GENERATOR
+
+                        PROJECT MEMBERS:-    UTKARSH YADAV(2016KUCP1023)
+                                              AYUSH SHARMA(2016KUCP1027)
+
+THIS IS AN ID CARD GENERATOR USED FOR PROJECT PURPOSE ONLY 
+
+START FROM id_card.py
+SOME OF THE KEY FEATURE ARE :
+Authentication to admin only(SIGNUP,LOGIN and LOGOUT)
+Option menu in branch(Only two CSE and ECE)
+Can choose any desired image
+
+Generate your id card by your name IMAGE FILE(OPEN Your_name.png file)
+
+Generate the PDF file(OPEN Your_name.pdf)
+
+
+QR CODE GENERATOR attach on the ID card(Please scan the QRcode on the ID card with paytm or any suitable QR code scanner )
+
+NOTE : ZOOM the id card while scanning QR code(best scanned by paytm app)
+
+THANK YOU 
+SEE FILE (alex.png,alex.pdf for demo files)
